@@ -10,7 +10,7 @@ layout: default
 
 -[Tech Docs](https://hannalyu.github.io/homepage/blog/tech-docs/readme.html)
 
--[Machine Learning](https://hannalyu.github.io/homepage/blog/Machine-Learning/readme.html)
+-[Machine Learning](https://hannalyu.github.io/homepage/blog/Machine-Learning/ml.html)
 
 -[Language Acquisition](https://hannalyu.github.io/homepage/blog/language-acquisition/readme.html)
 
