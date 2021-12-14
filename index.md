@@ -6,7 +6,7 @@ layout: default
 ### Contents
 -[About Me](https://hannalyu.github.io/homepage/about/aboutMe.html)
 
--[VTK Book](https://hannalyu.github.io/homepage/vtk/getCFDinvtk.html)
+-[VTK Book](https://hannalyu.github.io/homepage/blog/vtk/getCFDinvtk.html)
 
 -[Tech Docs](https://hannalyu.github.io/homepage/tech-docs/tech-docs.html)
 
