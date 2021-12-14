@@ -8,10 +8,10 @@ layout: default
 
 -[VTK Book](https://hannalyu.github.io/homepage/blog/vtk/vtk.html)
 
--[Tech Docs](https://hannalyu.github.io/homepage/blog/tech-docs/tech-docs.html)
+-[Tech Docs](https://hannalyu.github.io/homepage/blog/tech-docs/techDocs.html)
 
 -[Machine Learning](https://hannalyu.github.io/homepage/blog/Machine-Learning/ml.html)
 
--[Language Acquisition](https://hannalyu.github.io/homepage/blog/language-acquisition/language-acquisition.html)
+-[Language Acquisition](https://hannalyu.github.io/homepage/blog/language-acquisition/languageAcquisition.html)
 
 
